@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikasi Bio</string>
+
+    <string-array name="daftar_jurusan">
+        <item>Teknik Informatika</item>
+        <item>Manajemen Informatika</item>
+        <item>Sastra Inggris</item>
+        <item>Fakultas Ilmu Komunikasi</item>
+        <item>Ekonomi Manajemen</item>
+        <item>Ekonomi Akutansi</item>
+    </string-array>
+</resources>
